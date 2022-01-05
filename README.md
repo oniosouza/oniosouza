@@ -1,6 +1,6 @@
 # Olá, Me Chamo Onio Souza
-## Atualemnte estudo: Análise e Desenvolvimento de Sistemas.
-### Estacio.
+## Atualmente Estudo: Análise e Desenvolvimento de Sistemas
+### Estacio
 <!--
 **oniosouza/oniosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
