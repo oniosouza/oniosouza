@@ -1,4 +1,4 @@
-# Olá, Me Chamo Onio Souza
+# Me Chamo Onio Souza
 ## Formado em:: Análise e Desenvolvimento de Sistemas
 ### Estacio
 <!--
